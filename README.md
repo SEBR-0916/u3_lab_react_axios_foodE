@@ -26,4 +26,5 @@
 
 - Have multiple search options - Name, Ingredients, or anyting else available through either API
 - Responsive styling to make the site Mobile friendly
+- use Context to pass our Searchbar's data through other components!
 - Anything else you can imagine!
